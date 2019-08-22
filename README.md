@@ -2,13 +2,13 @@
 
 <article><p>##Windows users:</p>
 <ul>
-<li>Download xampp: <a href="https://www.apachefriends.org/download.html" rel="nofollow">https://www.apachefriends.org/download.html</a></li>
-<li>Download and extract cmder mini: <a href="https://github.com/hardeepbharaj1295/laravel-multi-auth/archive/master.zip">https://github.com/hardeepbharaj1295/laravel-multi-auth/archive/master.zip</a></li>
+<li>Download xampp: <a href="https://www.apachefriends.org/download.html" target="_blank" rel="nofollow">https://www.apachefriends.org/download.html</a></li>
+<li>Download and extract cmder mini: <a href="https://github.com/hardeepbharaj1295/laravel-multi-auth/archive/master.zip" target="_blank">https://github.com/hardeepbharaj1295/laravel-multi-auth/archive/master.zip</a></li>
 </ul>
 <p>##Mac Os, Ubuntu and windows users continue here:</p>
 <ul>
 <li>Create a database locally named <code>laravel_multi_auth</code> utf8_general_ci</li>
-<li>Download composer <a href="https://getcomposer.org/download/" rel="nofollow">https://getcomposer.org/download/</a></li>
+<li>Download composer <a href="https://getcomposer.org/download/" target="_blank" rel="nofollow">https://getcomposer.org/download/</a></li>
 <li>Pull Laravel/php project from git provider.</li>
 <li>Rename <code>.env.example</code> file to <code>.env</code>inside your project root and fill the database information.
 (windows wont let you do it, so you have to open your console cd your project root directory and run <code>mv .env.example .env</code> )</li>
