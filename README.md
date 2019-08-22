@@ -3,7 +3,7 @@
 <article><p>##Windows users:</p>
 <ul>
 <li>Download xampp: <a href="https://www.apachefriends.org/download.html" rel="nofollow">https://www.apachefriends.org/download.html</a></li>
-<li>Download and extract cmder mini: <a href="https://github.com/hardeepbharaj1295/multi-auth/archive/master.zip">https://github.com/hardeepbharaj1295/multi-auth/archive/master.zip</a></li>
+<li>Download and extract cmder mini: <a href="https://github.com/hardeepbharaj1295/laravel-multi-auth/archive/master.zip">https://github.com/hardeepbharaj1295/laravel-multi-auth/archive/master.zip</a></li>
 </ul>
 <p>##Mac Os, Ubuntu and windows users continue here:</p>
 <ul>
