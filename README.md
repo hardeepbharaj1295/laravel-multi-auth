@@ -17,6 +17,7 @@
 <li>Run <code>php artisan migrate</code></li>
 <li>Run <code>php artisan db:seed</code> to run seeders, if any.</li>
 <li>Run <code>php artisan serve</code></li>
+    <li>Run <code>php artisan key:generate</code></li>    
 </ul>
 
 <p>#####You can now access your project at localhost:8000 :)</p>
